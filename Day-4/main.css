@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: capitalize;
+}
+/* input {
+  margin: 20px 0;
+  display: block;
+}
+div {
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  margin: 10px auto;
+}
+button {
+  margin: 10px auto;
+  display: block;
+} */
+.progress {
+  width: 100%;
+  background-color: white;
+}
+.parent {
+  background-color: black;
+  padding: 10px;
+  height: 30px;
+  border-radius: 6px;
+  width: 900px;
+}
+.child {
+  background-color: red;
+  height: 20px;
+  border-radius: 6px;
+  margin-top: 5px;
+  width: 0;
+}
